@@ -1,2 +1,2 @@
 # sliding-wheel
-it's an js based sliding wheel
+SIMPLE HTML+CSS AND JAVASCRIPT BASED SLIDING WHEEL ON CLICK EVENT
